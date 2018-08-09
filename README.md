@@ -9,20 +9,24 @@ A-107, JCB Hall of Residence, IIT Kharagpur, West Bengal - 721302
 
 **2017-2022(Expected)**  
 B.Tech and M.Tech (Dual Degree) in Computer Science and Engineering at Indian Institute of Technology, Kharagpur
-GPA : 9.51/10.0 (Upto 2nd semester)
+
+**GPA** : 9.51/10.0 (Upto 2nd semester)
 
 **2017**  
 Class XII, Central Board of Secondary Education (CBSE) at Mahatma Gandhi Centenary Vidyalaya, Trichy
-Percentage : 96%
+
+**Percentage** : 96%
 
 **2015**  
 Class X, Central Board of Secondary Education (CBSE) at Mahatma Gandhi Centenary Vidyalaya, Trichy
-CGPA : 10/10
+
+**CGPA** : 10/10
 
 ## Technical Skills
-**Programming** - Proficient: C , C++ , Competent: Python , Familiar with: Python, Java, Golang  
+**Programming** - Proficient: C , C++ , Competent: Python , Familiar with: Java, Golang  
 **Libraries/Frameworks** - Pygame , Curl , Flask , OpenCV , ROS   
 **Systems/Platforms** - Git , Docker , Linux , Android
+
 **Others** - Bash , Latex , Solidworks
 
 ## Work Experience
@@ -69,9 +73,9 @@ Guide: Professor Debasis Chakravarty
 
 ## Scholastic Achievements
 
-AIR 322 in JEE Advanced 2017
-AIR 1784 in JEE Mains 2017
-KVPY SA and SX Scholar
-Qualified for INMO 2016
-Qualified for INAO 2016
+- AIR 322 in JEE Advanced 2017
+- AIR 1784 in JEE Mains 2017
+- KVPY SA and SX Scholar
+- Qualified for INMO 2016
+- Qualified for INAO 2016
 
