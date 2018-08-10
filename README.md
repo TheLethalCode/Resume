@@ -12,7 +12,7 @@ B.Tech and M.Tech (Dual Degree) in Computer Science and Engineering at Indian In
 **GPA** : 9.51/10.0 (Upto 2nd semester)
 
 **2017**  
-Class XII, Central Board of Secondary Education (CBSE) at Mahatma Gandhi Centenary Vidyalaya, Trichy  
+Class XII, Central Board of Secondary Education (CBSE) at Maharishi International Residential School, Kancheepuram  
 **Percentage** : 96%
 
 **2015**  
@@ -20,10 +20,10 @@ Class X, Central Board of Secondary Education (CBSE) at Mahatma Gandhi Centenary
 **CGPA** : 10/10
 
 ## Technical Skills
-**Programming** - Proficient: C , C++ , Competent: Python , Familiar with: Java, Golang  
-**Libraries/Frameworks** - Pygame , Curl , Flask , OpenCV , ROS   
+**Programming** - Proficient: C, C++, Competent: Python , Familiar with: Java, Golang  
+**Libraries/Frameworks** - OpenCV, ROS, Curl, Flask, Pygame    
 **Systems/Platforms** - Git , Docker , Linux , Android  
-**Others** - Bash , Latex , Solidworks
+**Others** - Bash, Latex, Solidworks
 
 ## Work Experience
 
