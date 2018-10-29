@@ -1,0 +1,22 @@
+# Fdb version 3
+["pdflatex"] 1540794746 "/home/thelethalcode/Programming/git/Resume/main.tex" "main.pdf" "main" 1540794746
+  "/dev/null" 1540625202 0 d41d8cd98f00b204e9800998ecf8427e ""
+  "/home/thelethalcode/Programming/git/Resume/main.tex" 1540794742 12708 af85c76bcc2bc76f2d2bde0405f447e9 ""
+  "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1536122179 3332 103109f5612ad95229751940c61aada0 ""
+  "/usr/share/texmf-dist/fonts/tfm/public/cm/cmr10.tfm" 1536122179 1296 45809c5a464d5f32c8f98ba97c1bb47f ""
+  "/usr/share/texmf-dist/tex/generic/unicode-data/UnicodeData.txt" 1536122179 1769137 acc291106c3758d2025f8d7bd5518bee ""
+  "/usr/share/texmf-dist/tex/latex/base/exscale.sty" 1536122179 2441 8ef26fa36de65c33c3991fc5aa2dc364 ""
+  "/usr/share/texmf-dist/tex/latex/base/size10.clo" 1536122179 8294 b0f177401f895563eb19304d2389582d ""
+  "/usr/share/texmf-dist/tex/latex/extsizes/extarticle.cls" 1536122179 20602 3112294ba237d94ce4a1502cfef3594f ""
+  "/usr/share/texmf-dist/tex/latex/fontspec/fontspec.sty" 1536122179 1656 d840578e7dc4315681db437e480729a5 ""
+  "/usr/share/texmf-dist/tex/latex/l3kernel/expl3-code.tex" 1536122179 954522 7e35f5ad98230da4eeede34e22178b57 ""
+  "/usr/share/texmf-dist/tex/latex/l3kernel/expl3.sty" 1536122179 9867 dbb8171ab4fc3ad22e8322c95869c7ab ""
+  "/usr/share/texmf-dist/tex/latex/l3kernel/l3pdfmode.def" 1536122179 13669 e324782025f3f03ffe3a0067726cc38b ""
+  "/usr/share/texmf-dist/tex/latex/l3packages/xparse/xparse.sty" 1536122179 77205 1fb01062840e5a153c0a7140451219f2 ""
+  "/usr/share/texmf-dist/web2c/texmf.cnf" 1536122179 33301 a3134070eacafb10b1f371612ce2650d ""
+  "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1540635104 7908120 e3a6c1aae9cfbe52f3d066b4a613d5f0 ""
+  "main.aux" 1540794746 8 a94a2480d3289e625eea47cd1b285758 ""
+  "main.tex" 1540794742 12708 af85c76bcc2bc76f2d2bde0405f447e9 ""
+  (generated)
+  "main.pdf"
+  "main.log"
