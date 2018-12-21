@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/Arch Linux) (preloaded format=pdflatex 2018.10.27)  29 OCT 2018 12:02
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/Arch Linux) (preloaded format=pdflatex 2018.12.4)  21 DEC 2018 23:37
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -31,9 +31,9 @@ LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
 \belowcaptionskip=\skip42
 \bibindent=\dimen103
 ) (/usr/share/texmf-dist/tex/latex/fontspec/fontspec.sty (/usr/share/texmf-dist/tex/latex/l3packages/xparse/xparse.sty (/usr/share/texmf-dist/tex/latex/l3kernel/expl3.sty
-Package: expl3 2018-08-23 L3 programming layer (loader) 
+Package: expl3 2018-11-19 L3 programming layer (loader) 
  (/usr/share/texmf-dist/tex/latex/l3kernel/expl3-code.tex
-Package: expl3 2018-08-23 L3 programming layer (code)
+Package: expl3 2018-11-19 L3 programming layer (code)
 \c_max_int=\count88
 \l_tmpa_int=\count89
 \l_tmpb_int=\count90
@@ -179,10 +179,10 @@ Package: expl3 2018-08-23 L3 programming layer (code)
 \l__seq_internal_a_int=\count170
 \l__seq_internal_b_int=\count171
 ) (/usr/share/texmf-dist/tex/latex/l3kernel/l3pdfmode.def
-File: l3pdfmode.def 2018-08-23 v L3 Experimental driver: PDF mode
+File: l3pdfmode.def 2018-11-19 v L3 Experimental driver: PDF mode
 \l__driver_color_stack_int=\count172
 ))
-Package: xparse 2018-08-23 L3 Experimental document command parser
+Package: xparse 2018-10-17 L3 Experimental document command parser
 \l__xparse_current_arg_int=\count173
 \g__xparse_grabber_int=\count174
 \l__xparse_m_args_int=\count175
@@ -192,35 +192,31 @@ Package: xparse 2018-08-23 L3 Experimental document command parser
 Package: fontspec 2018/07/30 vv2.6h Font selection for XeLaTeX and LuaLaTeX
 
 
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-!
-/usr/share/texmf-dist/tex/latex/fontspec/fontspec.sty:45: Fatal fontspec error: "cannot-use-pdftex"
-! 
-! The fontspec package requires either XeTeX or LuaTeX.
-! 
-! You must change your typesetting engine to, e.g., "xelatex" or
-! "lualatex"instead of "latex" or "pdflatex".
-! 
-! See the fontspec documentation for further information.
-! 
-! For immediate help type H <return>.
-!...............................................  
+/usr/share/texmf-dist/tex/latex/fontspec/fontspec.sty:45: Fatal Package fontspec Error: The fontspec package requires either XeTeX or
+(fontspec)                      LuaTeX.
+(fontspec)                      
+(fontspec)                      You must change your typesetting engine to,
+(fontspec)                      e.g., "xelatex" or "lualatex"instead of
+(fontspec)                      "latex" or "pdflatex".
+
+For immediate help type H <return>.
+ ...                                              
                                                   
 l.45 \msg_fatal:nn {fontspec} {cannot-use-pdftex}
                                                  
-|'''''''''''''''''''''''''''''''''''''''''''''''
-| This is a fatal error: LaTeX will abort.
-|...............................................
+
+This is a fatal error: LaTeX will abort.
+
 
  ) ) 
 Here is how much of TeX's memory you used:
- 9327 strings out of 492642
- 183968 string characters out of 6135565
- 210305 words of memory out of 5000000
- 13278 multiletter control sequences out of 15000+600000
+ 9428 strings out of 492639
+ 185878 string characters out of 6135497
+ 211236 words of memory out of 5000000
+ 13381 multiletter control sequences out of 15000+600000
  532338 words of font info for 24 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 47i,1n,65p,313b,275s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 47i,1n,65p,311b,275s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 No pages of output.
 PDF statistics:
